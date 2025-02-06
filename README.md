@@ -1,1 +1,1 @@
-# Codictive 1.0 State-Level Hackathon by {CODING THINKER}
+# Smart India Hackathon (SIH)2023
